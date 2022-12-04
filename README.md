@@ -11,3 +11,13 @@ For this, we will use Cholec-tinytools, a surgical tool tip image dataset genera
 
 <img src="https://github.com/ChelbiAhmed99/SurgicalIA/blob/main/dataset.png" width="700" heigh="700">
 
+# Dependency
+
+The model depends on the following libraries:
+
+Tensorflow (1.3 < tf < 2.0)
+Opencv
+imageio
+imageio-ffmpeg
+matplotlib
+Python >= 2.7
