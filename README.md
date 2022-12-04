@@ -20,3 +20,8 @@ imageio
 imageio-ffmpeg   
 matplotlib   
 Python >= 2.7
+# System Requirements:
+
+The code has been test on Windows operating system. It runs on both CPU and GPU. Equivalence of basic OS commands such as unzip, cd, wget, etc. will be needed to run in Linux or Mac OS.
+# Result
+<img src="https://github.com/ChelbiAhmed99/SurgicalIA/blob/main/result.png" width="700" heigh="700">
