@@ -15,9 +15,9 @@ For this, we will use Cholec-tinytools, a surgical tool tip image dataset genera
 
 The model depends on the following libraries:
 
-Tensorflow (1.3 < tf < 2.0)
-Opencv
-imageio
-imageio-ffmpeg
-matplotlib
+Tensorflow (1.3 < tf < 2.0) /n
+Opencv /n
+imageio /n
+imageio-ffmpeg /n
+matplotlib /n
 Python >= 2.7
