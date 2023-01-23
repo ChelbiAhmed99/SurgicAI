@@ -11,6 +11,7 @@ For this, we will use Cholec-tinytools, a surgical tool tip image dataset genera
 
 <img src="https://github.com/ChelbiAhmed99/SurgicalIA/blob/main/dataset.png" width="700" heigh="700">
 
+<img src="https://github.com/ChelbiAhmed99/SurgicAI/blob/main/SurgicAI.mp4" width="700" heigh="700">
 # Dependency
 The model depends on the following libraries:  
 
